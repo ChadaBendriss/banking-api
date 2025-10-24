@@ -28,7 +28,7 @@ java -version
 ## Download / Open the project
 1. Download or clone from GitHub:
    ```powershell
-   git clone https://github.com/<ChadaBendriss>/banking-api.git
+   git clone https://github.com/ChadaBendriss/banking-api.git
    cd banking-api
    ```
 2. Or download via Spring Initializr, then open in **VS Code**.
